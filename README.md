@@ -19,7 +19,7 @@
   
 <!-- Criando as imagens dos objetos Qlik e demais. Essas imagens tem que estarem salvas com o tipo SVG -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Qlik" height="35" width="70" src="https://iconape.com/wp-content/files/is/352778/svg/qlik-seeklogo.com.svg">
+  <!-- <img align="center" alt="Pablo-Qlik" height="35" width="70" src="https://iconape.com/wp-content/files/is/352778/svg/qlik-seeklogo.com.svg"> -->
   <img align="center" alt="Pablo-QlikView" height="45" width="75" src="https://upload.wikimedia.org/wikipedia/commons/0/09/QlikTech_20xx_logo.svg">
   <img align="center" alt="Pablo-QlikSense" height="30" width="130" src="https://abracd.org/wp-content/uploads/2020/07/QlikSenseTypemark-Horizontal-Web.png">
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
