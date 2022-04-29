@@ -39,7 +39,7 @@
 </div>
   
 <!-- Criando a cobrinha que faz o commit -->
-![Snake animation](https://github.com/pabloluaan/pabloluaan/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/pabloluaan/pabloluaan/blob/output/github-contribution-grid-snake.svg) -->
 
   <!-- Criando a cobrinha que faz o commit 
   Link do instagram ensinando como criar a cobrinha: https://www.instagram.com/accounts/login/?next=/p/CPjUBhXDNEE/
